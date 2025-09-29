@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Programa</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2025 18:50:32 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 19:20:18 +0300</lastBuildDate>
     <atom:link href="https://Dominykas359.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kodopuslapis</title>
+      <link>https://Dominykas359.github.io/posts/kodopuslapis/</link>
+      <pubDate>Mon, 29 Sep 2025 19:20:18 +0300</pubDate>
+      <guid>https://Dominykas359.github.io/posts/kodopuslapis/</guid>
+      <description>&lt;p&gt;Čia yra puslapis su kodo gabalu&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://Dominykas359.github.io/img/hexagon.jpg&#34; alt=&#34;Mano paveilėlis&#34;&gt;&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;public class Main {&#xA;&#xA;public static void main(args []String) {&#xA;&#xA;System.out.println(&amp;#34;Hello world&amp;#34;);&#xA;}&#xA;}&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
     <item>
       <title>Naujas</title>
       <link>https://Dominykas359.github.io/posts/naujas/</link>
